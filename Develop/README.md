@@ -1,20 +1,18 @@
-# djia
+# Spaghetti Master
 
   ## Badges
 
-  ![badge](https://img.shields.io/badge/license-undefined-blue)
+  ![badge](https://img.shields.io/badge/license-MIT-blue)
 
   ## License
 
-  This application is protected by undefined.
+  This application is protected by MIT.
 
   ## Description
   
-  undefined
+  This application shows you a very nice plate of spaghetti in your browser.
   
-  ## Table of Contents (Optional)
-  
-  If your README is long, add a table of contents to make it easy for users to find what they need.
+  ## Table of Contents 
   
   - [Installation](#installation)
   - [Usage](#usage)
@@ -23,29 +21,29 @@
   
   ## Installation
 
-  undefined
+  2 kilobytes
   
   ## Usage
 
-  undefined
+  This is an application created for people who urgently need to see a plate of spaghetti. 
   
   ## Credits
   
-  undefined  
+  This was developed in collaboration with King Narnode of the Noodle Kingdom.   
 
   ## Features
   
-  undefined
+  None, aside from the spaghetti.
   
   ## How to Contribute
   
-  undefined
+  If anyone knows how to make meatballs please contact us.
   
   ## Tests
   
-  undefined
+  Spaghetti MasterTM took the Turing Test and failed.
 
   ## Questions
 
-  You can find me on Github at Blickenderfer (https://github.com/Blickenderfer)
+  You can find me on Github at blickenderfer (https://github.com/blickenderfer)
   Email me with any questions at ecblickenderfer@gmail.com

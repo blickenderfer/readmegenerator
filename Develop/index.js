@@ -1,9 +1,7 @@
-// TODO: Include packages needed for this application
 const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
-// THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-// TODO: Create an array of questions for user input
+
 const questions = [{
     type: "input",
     message: "What is the name of this application?",
@@ -25,8 +23,13 @@ const questions = [{
     name: "usage",
 },
 {
+    type: "input",
+    message: "List any collaborators who helped build this application.",
+    name: "credits",
+},
+{
     type: "list",
-    message: "License",
+    message: "Select which license applies to this application.",
     name: "license",
     choices: [
         "Apache", "Academic", "GNU", "ISC", "MIT", "Mozilla", "Open"
@@ -34,45 +37,43 @@ const questions = [{
 },
 {
     type: "input",
-    message: "features",
+    message: "List any features of this application.",
     name: "features",
 },
 {
     type: "input",
-    message: "how to contribute",
+    message: "Provide resources on how someone can contribute to this project.",
     name: "contribute",
 },
 {
     type: "input",
-    message: "Tests",
+    message: "List any testing this application went through.",
     name: "tests",
 },
 {
     type: "input",
-    message: "enter github",
+    message: "Enter your Github username.",
     name: "github"
 },
 {
     type: "input",
-    message: "enter email",
+    message: "Enter your email.",
     name: "email",
 }
 ];
 
-// TODO: Create a function to write README file
+
 function writeToFile(fileName, data) {
     fs.writeFileSync(fileName, data)
 }
 
-// TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions)
         .then(answers => {
             writeToFile("README.md", generateMarkdown(answers))
-            console.log("readmegenerated");
+            console.log("Your README has been succesfully generated!");
         })
 
 }
 
-// Function call to initialize app
 init();
