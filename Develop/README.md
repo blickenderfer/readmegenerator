@@ -1,16 +1,16 @@
-# Spaghetti Master
+# demo
 
   ## Badges
 
-  ![badge](https://img.shields.io/badge/license-MIT-blue)
+  ![badge](https://img.shields.io/badge/license-Apache-blue)
 
   ## License
 
-  This application is protected by MIT.
+  This application is protected by Apache.
 
   ## Description
   
-  This application shows you a very nice plate of spaghetti in your browser.
+  demo
   
   ## Table of Contents 
   
@@ -21,27 +21,27 @@
   
   ## Installation
 
-  2 kilobytes
+  demo
   
   ## Usage
 
-  This is an application created for people who urgently need to see a plate of spaghetti. 
+  demo
   
   ## Credits
   
-  This was developed in collaboration with King Narnode of the Noodle Kingdom.   
+  demo  
 
   ## Features
   
-  None, aside from the spaghetti.
+  demo
   
   ## How to Contribute
   
-  If anyone knows how to make meatballs please contact us.
+  demo
   
   ## Tests
   
-  Spaghetti MasterTM took the Turing Test and failed.
+  demo
 
   ## Questions
 
