@@ -1,21 +1,49 @@
-# READMEGenerator
+# djka
 
-## Overview 
+  ## Badges
 
-This application generates a README file that can be used to describe a coding project. This can be useful for anyone who does coding whether in a casual or professional setting. 
+  ![badge](https://img.shields.io/badge/license-Apache-blue)
 
-## Installation
+  ## License
 
-READMEGenerator operates within any code editor and requires NodeJS 18.16.0. 
+  This application is protected by Apache.
 
-## Usage
+  ## Description
+  
+  sdlkjja
+  
+  ## Table of Contents 
+  
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  
+  ## Installation
 
-The intention of this application is for a user to create a README in a simplified and streamlined way. Upon opening the index.js file, the user is prompted through multiple questions pertaining to necessary information to create the end product, such as prompts to list collaborators, describe the project and attach contact information. When the user has completed fully answering the questions the terminal will inform them their README has been successfully generated. The user can then right-click on the readme.md file and select "Open Preview" to view the final result. 
+  hsdaj
+  
+  ## Usage
 
-## Credits
+  shdajl
+  
+  ## Credits
+  
+  djksla  
 
-This README generator was created by Claire Blickenderfer utilizing starter code made by Github users @Xandromus and @gachoi06.
+  ## Features
+  
+  djska
+  
+  ## How to Contribute
+  
+  dsjla
+  
+  ## Tests
+  
+  sdhaklj
 
-## Video Demonstration
+  ## Questions
 
-https://drive.google.com/file/d/1DjcRnM1bHWszuHLqyvu2sXv2eRtPNxyC/view?usp=sharing
+  You can find me on Github at dhskaj (https://github.com/dhskaj)
+  Email me with any questions at djskal
